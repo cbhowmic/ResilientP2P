@@ -1,0 +1,7 @@
+CIFAR/
+MNIST/results_*
+MNIST/None/
+HAR/results_*
+Spambase/None/
+Spambase/results_*
+HAR/None/
